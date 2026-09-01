@@ -47,3 +47,30 @@
 
 **Issues Faced:**
 - None
+
+
+---
+
+## Date: 22-08-2026
+
+**Today's Work:**
+- Completed Session 3 on Object-Oriented Programming (OOP), Classes, and Objects.
+- Learned the purpose of OOP and how it bundles data with the behaviour that acts on it.
+- Understood the benefits of OOP, including reusability, security through encapsulation, and extensibility.
+- Learned the difference between a class and an object using the blueprint/floor-plan concept.
+- Studied class structure consisting of fields, constructors, and methods.
+- Learned how constructors initialize objects, including constructor naming rules and the absence of a return type.
+- Understood the `this` keyword and its use when constructor or method parameters have the same names as instance fields.
+- Studied Java access modifiers: `public`, `private`, `protected`, and default access.
+- Learned object creation using the `new` keyword and understood the difference between an object and its reference variable.
+- Studied reference assignment, object identity, `==`, `null`, `NullPointerException`, and garbage collection.
+- Learned the difference between instance members and `static` members and when each should be used.
+- Understood why static methods cannot directly access instance fields or `this`.
+- Practiced Java examples involving students, fee accounts, hostel rooms, courses, ID cards, and static members.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+- Practice and implement OOP, classes, objects, constructors, and static member concepts through Java programs and assignments.
+
+**Issues Faced:**
+- None
