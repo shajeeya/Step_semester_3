@@ -1,4 +1,4 @@
-package oop.assignment_problems;
+package string.assignment_problems;
 
 public class Problem1 {
 
