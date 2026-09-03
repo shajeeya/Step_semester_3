@@ -1,4 +1,4 @@
-package oop.assignment_problems;
+package strings.assignment_problems;
 
 import java.util.HashMap;
 import java.util.Map;
