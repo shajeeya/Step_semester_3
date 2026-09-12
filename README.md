@@ -146,3 +146,26 @@
 
 **Issues Faced:**
 - None
+
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
+- Studied the concept of Abstraction and understood how abstract classes can contain both concrete methods and abstract methods.
+- Learned that an abstract class cannot be instantiated directly and that concrete subclasses must implement all inherited abstract methods.
+- Studied Abstract Methods and understood that they have no method body and must be implemented by concrete subclasses.
+- Learned about Interfaces as contracts that define capabilities which implementing classes must provide.
+- Understood that a class can extend only one class but can implement multiple interfaces.
+- Studied the difference between an Abstract Class and an Interface, including state, constructors, methods, and inheritance.
+- Learned the difference between IS-A and CAN-DO relationships, where `extends` represents IS-A and `implements` represents CAN-DO.
+- Understood when to use a plain class, abstract class, or interface based on the design requirements.
+- Studied the smart home device examples involving `Device`, `Remoteable`, `Schedulable`, `EnergyMonitorable`, `SmartLight`, `SmartThermostat`, `BasicLamp`, and `SmartDoorLock`.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+- Practice and implement abstract classes, abstract methods, interfaces, multiple interfaces, IS-A, CAN-DO, and abstract class vs interface concepts.
+
+**Issues Faced:**
+- None
