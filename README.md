@@ -190,3 +190,27 @@
 
 **Issues Faced:**
 - None
+
+
+---
+
+## Date: 26-09-2026
+
+**Today's Work:**
+- Completed Session 8 on Data Structures and Linear Data Structures.
+- Revised 1D and 2D Arrays along with their time complexities.
+- Learned the fundamentals of Data Structures, including primitive vs non-primitive structures and common operations such as traversal, insertion, deletion, searching, sorting, and merging.
+- Studied the difference between Linear and Non-Linear Data Structures with examples such as Arrays, Linked Lists, Stacks, Queues, Trees, and Graphs.
+- Learned about Static and Dynamic Data Structures, including stack and heap memory concepts and how ArrayList grows dynamically.
+- Studied Abstract Data Types (ADTs), including List, Stack, and Queue, and understood how the same ADT can have different implementations.
+- Learned the basics of Big-O Notation and analyzed O(1), O(log n), O(n), O(n log n), and O(n²) complexities.
+- Practiced identifying time complexity using single loops, nested loops, and input-halving examples.
+- Studied Time vs Space trade-offs when choosing a data structure.
+- Learned how to choose the appropriate data structure based on the operations and requirements of a problem.
+- Applied the concepts through the Library Book Tracker example.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+
+**Issues Faced:**
+- None
