@@ -169,3 +169,24 @@
 
 **Issues Faced:**
 - None
+
+
+---
+
+## Date: 19-09-2026**
+
+**Today's Work:**
+- Completed Session 7 on Object Class Methods, Inner Classes & UML Diagrams.
+- Learned about Object Modeling and `toString()`, including why overriding the default `toString()` is useful for representing an object's actual state.
+- Studied `equals()` and `==`, including the difference between reference comparison and logical object equality.
+- Learned about `hashCode()` and `getClass()`, including why `hashCode()` must be overridden consistently with `equals()`.
+- Studied cloning using `clone()`, including the difference between shallow copy and deep copy.
+- Learned about Inner Classes, including Member Inner Classes, Static Nested Classes, Local Classes, and Anonymous Classes.
+- Studied UML Diagrams, including Class Diagrams, Object Diagrams, and Sequence Diagrams.
+- Applied the concepts using the Smart Home Device ecosystem example.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+
+**Issues Faced:**
+- None
