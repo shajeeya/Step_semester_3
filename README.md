@@ -214,28 +214,3 @@
 
 **Issues Faced:**
 - None
-
-
----
-
----
-
-## Date: 03-10-2026
-
-**Today's Work:**
-- Studied the fundamentals of Sorting Algorithms, including order, stability, in-place sorting, and time complexity.
-- Learned Bubble Sort and its optimization using a swap flag.
-- Studied Selection Sort and its minimum-element selection approach.
-- Learned Insertion Sort and how it builds a sorted portion by inserting elements into the correct position.
-- Studied Merge Sort using the Divide and Conquer technique.
-- Learned Quick Sort, including pivot selection and partitioning.
-- Studied Heap Sort using max-heaps and the heapify operation.
-- Learned Counting Sort as a non-comparison-based sorting algorithm for integers within a limited range.
-- Compared all seven sorting algorithms based on best, average, and worst-case time complexity, extra space, and stability.
-- Learned how to choose an appropriate sorting algorithm based on input size, memory constraints, stability requirements, and data range.
-
-**Next Session Plan:**
-- Continue with the concepts covered in the next STEP session.
-
-**Issues Faced:**
-- None
