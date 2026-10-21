@@ -218,8 +218,6 @@
 
 ---
 
----
-
 ## Date: 03-10-2026
 
 **Today's Work:**
@@ -233,6 +231,32 @@
 - Learned Counting Sort as a non-comparison-based sorting algorithm for integers within a limited range.
 - Compared all seven sorting algorithms based on best, average, and worst-case time complexity, extra space, and stability.
 - Learned how to choose an appropriate sorting algorithm based on input size, memory constraints, stability requirements, and data range.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+
+**Issues Faced:**
+- None
+
+
+---
+
+---
+
+## Date: 10-10-2026
+
+**Today's Work:**
+- Completed Session 10 on Dynamic Data Structures — Linked List Implementation and Operations.
+- Revised the limitations of arrays and compared static and dynamic data structures.
+- Learned about memory allocation, including stack and heap memory, and the difference between static and dynamic allocation.
+- Studied the fundamentals of Linked Lists, including node structure, data, and references.
+- Learned Singly Linked Lists (SLL) and practiced building, traversing, inserting, deleting, and searching nodes.
+- Studied Doubly Linked Lists (DLL), including forward and backward traversal and O(1) deletion when a node reference is available.
+- Learned Circular Linked Lists, including Singly Circular Linked Lists (SCLL) and Doubly Circular Linked Lists (DCLL).
+- Implemented linked-list concepts using a music playlist scenario involving song insertion, deletion, navigation, and repeat-all functionality.
+- Compared arrays and linked-list variants based on memory usage, traversal direction, insertion, deletion, and time complexity.
+- Learned to handle important edge cases, including empty lists, single-node lists, head and tail operations, and values not found.
+- Studied how to choose the appropriate linked-list variant based on application requirements.
 
 **Next Session Plan:**
 - Continue with the concepts covered in the next STEP session.
