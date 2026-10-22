@@ -24,8 +24,6 @@
 
 ---
 
----
-
 ## Date: 08-08-2026
 
 **Today's Work:**
@@ -53,12 +51,9 @@
 
 ---
 
----
-
 ## Date: 22-08-2026
 
 **Today's Work:**
-
 - Completed Session 3 on Object-Oriented Programming (OOP), Classes, and Objects.
 - Learned the purpose of OOP and how it bundles data with the behaviour that acts on it.
 - Understood the benefits of OOP, including reusability, security through encapsulation, and extensibility.
@@ -74,10 +69,38 @@
 - Practiced Java examples involving students, fee accounts, hostel rooms, courses, ID cards, and static members.
 
 **Next Session Plan:**
-
 - Continue with the concepts covered in the next STEP session.
 - Practice and implement OOP, classes, objects, constructors, and static member concepts through Java programs and assignments.
 
 **Issues Faced:**
+- None
 
+
+---
+
+## Date: 29-08-2026
+
+**Today's Work:**
+- Completed Session 4 on Access Modifiers, Encapsulation, JavaBeans, and Object Modeling.
+- Studied the four Java access modifiers: `private`, default (package-private), `protected`, and `public`.
+- Learned the visibility rules of access modifiers within the same class, same package, subclasses, and different packages.
+- Understood how `protected` members can be accessed by subclasses in different packages through inheritance.
+- Studied encapsulation and data hiding using private fields and controlled public methods.
+- Learned how encapsulation prevents invalid object state by enforcing rules through methods.
+- Studied the JavaBean standard and naming conventions for getters and setters.
+- Learned that normal properties use `getX()` and `setX()`, while boolean properties use `isX()`.
+- Understood the importance of a public no-argument constructor in a JavaBean.
+- Studied read-only and write-only properties using getter-only and setter-only designs.
+- Learned the concept of immutable objects and how `final` fields and the absence of setters help maintain immutability.
+- Understood that modifying an immutable object means creating and returning a new object instead of changing the existing object.
+- Studied the difference between `final` references and the mutability of the objects they reference.
+- Learned defensive copying using `clone()` to protect mutable arrays from external modification.
+- Understood how access modifiers, encapsulation, JavaBeans, immutability, and defensive copying work together in object modeling.
+- Practiced Java examples involving student profiles, fee accounts, enrollment records, and course rosters.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+- Practice and implement access modifiers, encapsulation, JavaBeans, immutability, and object modeling through Java programs and assignments.
+
+**Issues Faced:**
 - None
