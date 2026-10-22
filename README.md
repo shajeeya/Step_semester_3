@@ -104,3 +104,45 @@
 
 **Issues Faced:**
 - None
+
+
+---
+
+## Date: 05-09-2026
+
+**Today's Work:**
+- Completed Session 5 on Inheritance and Polymorphism.
+- Learned the concept of inheritance and how it represents an "is-a" relationship between a parent class and a subclass.
+- Studied Single Inheritance, where one class extends exactly one direct parent class.
+- Learned how inheritance promotes code reuse by allowing subclasses to use inherited fields and methods without duplicating the same implementation.
+- Studied the use of the `extends` keyword to establish an inheritance relationship between classes.
+- Learned how the `super()` constructor call passes the shared part of object construction to the parent class.
+- Understood that `super(...)` must be the first statement inside a subclass constructor.
+- Learned that private fields of a parent class cannot be accessed directly by a subclass and that inherited protected or public members can be used when appropriate.
+- Studied Multilevel Inheritance, where classes form a chain of inheritance such as parent, child, and further specialized subclasses.
+- Studied Hierarchical Inheritance, where multiple independent subclasses extend the same parent class.
+- Learned that Java supports Single, Multilevel, and Hierarchical Inheritance for classes but does not support multiple inheritance of classes.
+- Studied Constructor Chaining and understood that constructors execute from the topmost parent class down to the child class.
+- Learned that Java automatically inserts `super()` when a subclass constructor does not explicitly call a parent constructor, provided an accessible no-argument parent constructor exists.
+- Understood that a subclass cannot rely on an implicit `super()` call when the parent class has only parameterized constructors.
+- Learned Method Overriding, where a subclass redefines an inherited method using the same method signature.
+- Studied the `@Override` annotation and understood how it helps the compiler detect mistakes in intended method overriding.
+- Learned how `super.method()` can be used inside an overridden method to reuse the parent's implementation while extending its behaviour.
+- Studied the concept of Polymorphism and understood how the same method call can produce different behaviour depending on the actual object involved.
+- Learned Runtime Polymorphism through Dynamic Method Dispatch, where Java selects the overridden method based on the actual object at runtime rather than only the declared reference type.
+- Studied Method Overloading as Compile-Time or Static Polymorphism, where multiple methods in the same class have the same name but different parameter lists.
+- Learned that method overloading can differ by parameter type, number, or order, but return type alone cannot distinguish overloaded methods.
+- Understood the difference between Method Overloading and Method Overriding, including their requirements and when each is resolved.
+- Studied Upcasting, where a subclass object is treated through a reference of its parent type.
+- Learned that upcasting is implicit and safe because a subclass object is also an instance of its parent class.
+- Studied Downcasting, where a parent-type reference is explicitly converted back to a more specific subclass type.
+- Learned that downcasting should be checked using `instanceof` before performing the cast to avoid `ClassCastException`.
+- Understood that a parameter mismatch in an intended override can create a new overloaded method instead of overriding the parent method.
+- Practiced Java examples involving event tickets, workshop tickets, premium workshop tickets, and hackathon tickets to understand inheritance, constructor chaining, overriding, polymorphism, upcasting, and downcasting.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+- Practice and implement inheritance, polymorphism, method overriding, method overloading, constructor chaining, upcasting, and downcasting through Java programs and assignments.
+
+**Issues Faced:**
+- None
