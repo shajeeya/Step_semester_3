@@ -261,3 +261,32 @@
 
 **Issues Faced:**
 - None
+
+
+---
+
+## Date: 31-10-2026
+
+**Today's Work:**
+- Completed Week 11 on Stack and Queue — Advanced Implementation and Problem Patterns.
+- Studied different Stack implementations, including Array-based Stack, Linked List-based Stack, and implementing a Stack using Two Queues.
+- Learned about Monotonic Stacks and how they optimize nested-loop solutions from O(N²) to O(N).
+- Practiced Monotonic Stack problems, including Next Greater Element, Daily Temperatures, Largest Rectangle in Histogram, and Trapping Rain Water.
+- Studied Parentheses and Nested Structures using Stack.
+- Practiced Valid Parentheses, Simplify Path, Minimum Remove to Make Valid Parentheses, and Score of Parentheses.
+- Learned Expression Parsing and Compiler concepts, including the Shunting-Yard Algorithm, Infix to Postfix Conversion, Reverse Polish Notation (RPN) Evaluation, and Basic Calculator II.
+- Studied Memory State and Recursion Simulation using explicit Stacks.
+- Learned Iterative Depth-First Search (DFS), Iterative Tree Traversals (Inorder, Preorder, and Postorder), and Flatten Nested List Iterator.
+- Studied different Queue implementations, including Linear Array Queue, Circular Queue (Ring Buffer), and implementing a Queue using Two Stacks.
+- Learned Breadth-First Search (BFS) and Level Traversal for exploring trees and graphs level by level.
+- Practiced BFS problems, including Binary Tree Level Order Traversal, Rotting Oranges, Shortest Path in Binary Matrix, and Word Ladder.
+- Studied Sliding Window techniques using Deque (Double-Ended Queue).
+- Practiced Sliding Window problems, including Sliding Window Maximum, Max Value of Equation, and Constrained Subsequence Sum.
+- Compared different Stack and Queue implementations based on time complexity, memory usage, and application requirements.
+
+**Next Session Plan:**
+- Continue with the concepts covered in the next STEP session.
+- Practice and implement Stack, Queue, Monotonic Stack, BFS, DFS, Expression Evaluation, and Sliding Window problems.
+
+**Issues Faced:**
+- None
